@@ -19,3 +19,13 @@ Merging is nice because it’s a non-destructive operation. The existing branche
 
 Cherry picking is the act of picking a commit from a branch and applying it to another. 
 Enables you to pick arbitrary commit and append to the current working HEAD.
+
+> **git clean**
+
+Remove untracked files from working branch
+More details https://koukia.ca/how-to-remove-local-untracked-files-from-the-current-git-branch-571c6ce9b6b1
+
+
+**References:**
+
+https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
