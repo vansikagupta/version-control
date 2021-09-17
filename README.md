@@ -1,3 +1,5 @@
+## Git cheat sheet
+
 Purpose of any version control system is to allow you to record changes made to your code so that you can go back and see who made what changes, where were bugs introduced and revert the problematic changes.
 
 > **git log**
